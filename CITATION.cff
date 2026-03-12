@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: LadderSym
+message: If you use this repository, please cite the LadderSym ICLR 2026 paper.
+type: software
+license: MIT
+repository-code: https://github.com/ben2002chou/LadderSYM
+url: https://github.com/ben2002chou/LadderSYM
+authors:
+  - family-names: Chou
+    given-names: Benjamin Shiue-Hal
+  - family-names: Jajal
+    given-names: Purvish
+  - family-names: Eliopoulos
+    given-names: Nicholas John
+  - family-names: Davis
+    given-names: James C.
+  - family-names: Thiruvathukal
+    given-names: George K.
+  - family-names: Yun
+    given-names: Kristen Yeon-Ji
+  - family-names: Lu
+    given-names: Yung-Hsiang
+preferred-citation:
+  type: conference-paper
+  title: "LadderSym: A Multimodal Interleaved Transformer for Music Practice Error Detection"
+  authors:
+    - family-names: Chou
+      given-names: Benjamin Shiue-Hal
+    - family-names: Jajal
+      given-names: Purvish
+    - family-names: Eliopoulos
+      given-names: Nicholas John
+    - family-names: Davis
+      given-names: James C.
+    - family-names: Thiruvathukal
+      given-names: George K.
+    - family-names: Yun
+      given-names: Kristen Yeon-Ji
+    - family-names: Lu
+      given-names: Yung-Hsiang
+  year: 2026
+  conference-name: The Fourteenth International Conference on Learning Representations
+  url: https://openreview.net/forum?id=cizuvfyQXs
